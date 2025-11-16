@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darshan Bane</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-![Uploading image.png…]()
+<img width="1584" height="396" alt="Teal and Black Modern Programmer New LinkedIn Banner" src="https://github.com/user-attachments/assets/cf287613-462d-4269-9db5-d595a4a84757" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan-bane&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-bane" /> </p>
 
