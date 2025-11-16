@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darshan Bane</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+![Uploading image.png…]()
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan-bane&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-bane" /> </p>
 
@@ -7,7 +8,7 @@
 
 - 💬 Ask me about **React Js, Redux, Js, HTML5, CSS3, Bootstarp, Wordpress**
 
-- 📫 How to reach me **darshanbane253@gmail.com**
+- 📫 How to reach me **darshanbane253@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
